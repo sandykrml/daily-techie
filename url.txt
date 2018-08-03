@@ -1,0 +1,469 @@
+CPU Caches and Why You Care [pdf]-->http://www.aristeia.com/TalkNotes/ACCU2011_CPUCaches.pdf
+Apple cancels app developer affiliate program-->https://affiliate.itunes.apple.com/resources/affiliate-commissions-and-payments/
+The world's most beautiful libraries-->https://www.theguardian.com/artanddesign/gallery/2018/jul/31/libraries-world-most-beautiful-in-pictures
+AWS Cloud Development Kit - a framework for defining cloud infra in code-->https://github.com/awslabs/aws-cdk
+Fields Medals Awarded to 4 Mathematicians-->https://www.nytimes.com/2018/08/01/science/fields-medals-mathematics.html
+Implementing Search in GraphQL-->https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179
+This futuristic fitness tracker creates a 3D model of your naked body-->https://thenextweb.com/gadgets/2018/08/01/naked-3d-fitness-tracker-scale-smart-mirror/
+Aulerion: SSD Cloud Hosting Now Also in Miami-->https://www.aulerion.com
+AdNauseam-->https://adnauseam.io/?x
+China’s Empire of Money Is Reshaping Global Trade-->https://www.bloomberg.com/news/features/2018-08-01/china-s-empire-of-money-is-reshaping-lives-across-new-silk-road
+Magswitch Works-->https://www.youtube.com/watch?v=fhdxgO8dHS8
+A build-it-yourself, 6-wheel rover based on the rovers on Mars-->https://github.com/nasa-jpl/open-source-rover
+Udocker – Run Docker Containers Without Root-->https://github.com/indigo-dc/udocker
+Ontario basic income pilot project coming to an end-->https://www.cbc.ca/news/canada/toronto/lisa-macleod-announcement-1.4768626
+We Can't Do It Ourselves-->http://www.lowtechmagazine.com/2018/07/we-cant-do-it-ourselves.html
+Vintage Computer Festival West in the Bay Area This Weekend-->https://vcfed.org/wp/festivals/vintage-computer-festival-west/
+Getting 4 bytes or a full cache line: same speed or not?-->https://github.com/Const-me/MemoryAccessCosts
+ew 5G Hurdles-->https://semiengineering.com/new-5g-hurdles/
+Programmable collective behavior in self-assembled mobile microrobotic swarms-->https://arxiv.org/abs/1807.09702
+The Future of the Java Platform and the JDK: Who Is in Charge? [video]-->https://www.youtube.com/watch?v=HpbchS5kmio
+Japanese children pass on horror of Nagasaki bombings-->https://www.theguardian.com/world/2018/aug/02/mini-storytellers-japanese-children-pass-on-horror-of-nagasaki-bombings
+Quantius – Turn your images into data-->https://www.quanti.us/
+CloudFlare announces a new product Access-->https://www.cloudflare.com/products/cloudflare-access/
+China Uses Robotic Doves to Spy-->https://www.scmp.com/news/china/society/article/2152027/china-takes-surveillance-new-heights-flock-robotic-doves-do-they
+The MMF is Launching-->https://mmfbeauty.com/#/
+One Overheated Laptop Battery Could Down an Airliner: Study-->https://www.bloombergquint.com/technology/2018/08/01/study-shows-one-overheated-laptop-battery-could-down-an-airliner#gs.JMPbU3Y
+California fires rage, and Gov. Jerry Brown offers grim view of fiery future-->http://www.latimes.com/local/lanow/la-me-ln-california-fires-20180801-story.html
+Tesla Discloses Worst Quarterly Loss Ever-->https://wolfstreet.com/2018/08/01/tesla-discloses-worst-quarterly-loss-ever-but-where-are-the-17000-model-3-cars-it-produced-but-didnt-deliver/
+Checkports.online – check if addr/port is up for connections-->https://checkports.online/
+The Sculptor Who Made Masks for Soldiers Disfigured in World War I (2016)-->https://hyperallergic.com/314255/the-sculptor-who-made-masks-for-soldiers-disfigured-in-world-war-i/
+ip of Theseus-->https://en.wikipedia.org/wiki/Ship_of_Theseus
+3D-printed Deep Learning neural network uses light instead of electrons-->https://newatlas.com/diffractive-deep-neural-network-uses-light-to-learn/55718/#gallery
+WineVDM: 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows-->https://github.com/otya128/winevdm
+In defense of Telegram’s username reassignment policy-->https://lucent.vision/telegram-username-policy-8dc3ac833bf9
+The biggest battle in Eve Online's history is happening now and you can watc-->https://www.pcgamer.com/the-biggest-battle-in-eve-onlines-entire-history-is-happening-right-now-and-you-can-watch/
+TSA considering eliminating screening at smaller airports-->https://www.cnn.com/2018/08/01/politics/tsa-considering-eliminating-screening-at-smaller-airports/index.html
+Tesla is building its own AI chips for self-driving cars-->https://techcrunch.com/2018/08/01/tesla-is-building-its-own-ai-chips-for-self-driving-cars/
+Mew Is a Mail Reader for Emacs-->http://www.mew.org/en/
+Remains of Tuskegee Airman Found in Austria-->https://www.smithsonianmag.com/smart-news/remains-tuskegee-airman-found-austria-180969787/?no-ist
+Timoreilly: Big money can only win against other big money-->https://twitter.com/timoreilly/status/1024484899326054401
+Fast checksum computation-->https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/
+Parents are now hiring Fortnite coaches for their children-->https://www.wsj.com/articles/ready-aim-hire-a-fortnite-coach-parents-enlist-videogame-tutors-for-their-children-1533046708
+People who don't drink any alcohol are more likely to develop dementia-->https://www.independent.co.uk/news/health/wine-alcohol-dementia-middle-age-teetotal-abstinence-a8473351.html
+Israeli spyware tried to hack an Amnesty activist’s phone-->https://www.fastcompany.com/90212318/how-israeli-spyware-tried-to-hack-an-amnesty-activists-phone
+ChronoCI – Fast and secure hosted CI Security service-->https://www.chronoci.com/
+A React component to zoom images on hover-->https://github.com/LeoNero/react-img-zoom
+Tesla Loses More Money Than Ever, But Says Profits Are Coming-->https://www.wired.com/story/tesla-q2-2018-earnings-call/
+A Review of “Bombshell: The Hedy Lamarr Story”, Directed by Alexandra Dean-->https://physicsworld.com/a/a-tale-of-two-lives/
+Auto-Keras: automated machine learning (AutoML) package based on Keras-->https://github.com/jhfjhfj1/autokeras
+The C10K problem-->http://www.kegel.com/c10k.html
+Context Matters When We Scrutinize Online Threats-->https://www.bloomberg.com/view/articles/2018-08-01/online-threats-demand-law-enforcement-to-consider-context
+The Accidentally Selfish Team-->https://medium.com/@ericathegreat/the-accidentally-selfish-team-bc81c93ef011
+The Only Thing Fire Scientists Are Sure Of: This Will Get Worse-->https://www.wired.com/story/the-only-thing-fire-scientists-are-sure-of-this-will-get-worse/
+900+ Angular Material Icons List-->https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
+Lubuntu is taking a new direction-->https://lubuntu.me/taking-a-new-direction/
+Engine maker Cummins to recall 500,000 trucks after failed emissions tests-->https://arstechnica.com/cars/2018/08/cummins-to-recall-500000-trucks-after-emissions-tests-but-its-no-vw-scandal/
+Microbes Share Your Morning Metro Commute-->https://www.scientificamerican.com/podcast/episode/microbes-share-your-morning-metro-commute/
+The Bold Future of the Outer Space Treaty-->https://daily.jstor.org/the-bold-future-of-the-outer-space-treaty/
+A collection of dataviz graphic pitfalls-->https://www.data-to-viz.com/caveats.html
+JavaScript menus for native-looking applications [Electron alternative]-->https://per.bothner.com/blog/2018/jsMenus/
+During World War II, we did have something to hide-->https://medium.com/@hansdezwart/during-world-war-ii-we-did-have-something-to-hide-40689565c550
+PG&E is spending big in Sacramento as it struggles with costs of North Bay fires-->https://www.mercurynews.com/2018/06/23/pge-is-spending-big-in-sacramento-as-it-struggles-with-costs-of-north-bay-fires/
+Generating Random Data in Python-->https://realpython.com/python-random/
+What it owes to be a better Python Developer?-->https://tekraze.com/2018/08/what-it-owes-to-be-better-python-dev/
+Apple Removes Apps from iTunes Affiliate Program-->https://www.macrumors.com/2018/08/01/apple-apps-affiliate-program-terminated/
+Google search results getting worse-->https://productforums.google.com/d/topic/websearch/jdI4HV81Ugk
+Icon Depicting Design of Upcoming iPad Pro Models Discovered in Beta 5-->https://www.macrumors.com/2018/08/01/ipad-pro-icon-ios-12-beta-5/
+aked Labs' $1,395 3-D Body Scanner Shows You the Naked Trut-->https://www.wired.com/story/naked-labs-3d-body-scanner/?CNDID=9596921&mbid=nl_080118_daily_list1_p4
+Tesla's introducing their own autopilot chip next year-->https://www.cnbc.com/2018/08/01/elon-musk-says-tesla-ai-chip-project-is-finally-coming-to-fruition.html
+Tesla’s ‘coast-to-coast’ drive on hold while Autopilot team focuses on safety-->https://www.theverge.com/2018/8/1/17641186/tesla-elon-musk-self-driving-coast-to-coast-delay
+General Magic: The Movie-->https://www.generalmagicthemovie.com/
+[VSCODE EXTENSION]: An easy way to remember little code pieces-->https://github.com/giovannyreyeso/code-reminder
+Blendle's Employee Handbook-->https://www.notion.so/Blendle-s-Employee-Handbook-7692ffe24f07450785f093b94bbe1a09
+Reddit account credentials from 2007 compromised-->https://www.fwdeveryone.com/t/Z4LIvqK3QmCYJMuNUMq8yA/reddit-account-credentials-2007-com
+Tesla Says New Autopilot Hardware Coming Next Year-->https://teslamotorsclub.com/blog/2018/08/01/tesla-says-new-autopilot-hardware-coming-next-year/
+Reboot Your Team [video]-->https://www.mindtheproduct.com/2018/07/reboot-your-team-by-christina-wodtke/
+ared Principles for Discussing Software Architectures-->https://hackernoon.com/first-do-no-harm-30-principles-that-helped-me-avoid-fly-by-architecture-reviews-e8952ac632a
+Walters: How CA state leaders circumvent the legislative process: trailer bills-->https://www.mercurynews.com/2018/06/20/walters-new-tool-politicians-are-misusing-to-circumvent-the-legislative-process/
+Why the Next Silicon Valley Will Probably Be Outside the U.-->https://www.citylab.com/life/2018/07/why-the-next-silicon-valley-will-probably-be-outside-the-us/566351/
+Measure problem (cosmology)-->https://en.wikipedia.org/wiki/Measure_problem_(cosmology)
+Capella Observatory-->http://www.capella-observatory.com/
+Apple Kills the App Store Affiliate Program, and I Have No Idea What to D-->https://toucharcade.com/2018/08/01/apple-kills-the-app-store-affiliate-program-and-i-have-no-idea-what-we-are-going-to-do/
+World's most prestigious maths medal is stolen minutes after professor wins it-->https://www.theguardian.com/world/2018/aug/01/fields-medal-award-stolen-brazil-maths-prize
+Warren Buffett Metric-->https://www.msn.com/en-us/money/markets/this-favorite-warren-buffett-metric-tells-us-a-stock-market-crash-could-be-coming/ar-BBL7KZy
+Google Drive will hit a billion users this week-->https://techcrunch.com/2018/07/25/google-drive-will-hit-a-billion-users-this-week/amp/
+AlphaGo Zero demystified-->https://dylandjian.github.io/alphago-zero/
+Microsoft To-Do for Windows 10 Is Getting Another Update with New Features-->https://www.bleepingcomputer.com/news/microsoft/microsoft-to-do-for-windows-10-is-getting-another-update-with-new-features/
+Things People Don't Get About the Homemade Gun Making Story-->https://reason.com/blog/2018/07/31/3-things-people-dont-get-about-the-homem
+Too Much of a Good Thing at NASA-->https://www.theatlantic.com/science/archive/2018/08/nasa-culture-optimism-james-webb/566558/?single_page=true
+OpenWrt 18.06: First stable version after the OpenWrt/LEDE project merger-->https://openwrt.org/releases/18.06/start
+We’re headed for a future where only the wealthy can enjoy nature-->http://thehill.com/opinion/energy-environment/399340-were-headed-for-a-future-where-only-the-wealthy-can-enjoy-nature
+Facebook CSO Alex Stamos departing, won't be replaced-->https://www.zdnet.com/article/facebook-cso-alex-stamos-departing-wont-be-replaced
+AI Drives Baidu Q2 Profits, but Stock Falls on Google Search Engine Speculation-->https://medium.com/@Synced/ai-drives-baidu-q2-profits-but-stock-falls-on-google-chinese-search-engine-speculation-39f60669d9e3
+A Proposal for the Dartmouth Summer Research Project on AI (1955) [pdf]-->http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf
+uawei Cloud FPGA Development Kit-->https://github.com/Huawei/huaweicloud-fpga
+Microdosing: People who take LSD with breakfast (2017)-->https://www.youtube.com/watch?v=Hbkgr3ZR2yA
+Google's AutoML: Cutting Through the Hype-->http://www.fast.ai/2018/07/23/auto-ml-3/
+Drug testing kits at festivals save lives-->https://www.vice.com/en_ca/article/kzygga/we-embedded-with-vigilante-drug-testers-at-the-gathering-of-the-juggalos-bunk-police
+Warp-->http://seanmonstar.com/post/176530511587/warp
+Paradise Papers: Apple's secret tax bolthole revealed-->https://www.bbc.com/news/world-us-canada-41889787
+The Cost of JavaScript in 2018-->https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+Machine Learning 101 by Googler Jason Mayes-->https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58
+Linux Hardware Reviews, Open-Source Benchmarks and Linux Performance-->https://www.phoronix.com/scan.php?page=news_item&amp;px=GLOVE-OpenGL-ES-Vulkan
+undreds of NC teachers are flunking math exams-->https://www.charlotteobserver.com/news/local/education/article215848065.html
+Password breach teaches Reddit that, yes, phone-based 2FA is that bad-->https://arstechnica.com/information-technology/2018/08/password-breach-teaches-reddit-that-yes-phone-based-2fa-is-that-bad/
+US Charges Three Members of FIN7 (Carbanak) Hacker Group-->https://www.bleepingcomputer.com/news/security/us-charges-three-members-of-fin7-carbanak-hacker-group/
+Kumo: a tiny, programmable, hardware swappable keyboard-->https://www.kickstarter.com/projects/thevankeyboards/kumo-a-compact-mechanical-keyboard/description
+Cryptocurrency Regulation Update (August 2018)-->https://medium.com/@philglazer/cryptocurrency-regulation-update-august-2018-71ae18861150
+Robotics to Have Its “PC Moment”-->https://popularelectronics.technicacuriosa.com/2018/08/01/robotics-pc-moment/
+tudy Suggests Cannabis Can Make Schizophrenia Medication Less Effective-->https://www.ncbi.nlm.nih.gov/pubmed/28272498
+Optimizing colormaps with consideration for color vision deficiency-->http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199239
+Think drug costs are bad? Try hospital prices-->https://www.axios.com/hospitals-drug-prices-trump-pharma-223585c8-f085-454d-8e17-078177274d24.html
+The Git Object Model-->http://shafiulazam.com/gitbook/1_the_git_object_model.html
+DOJ announces arrest of 3 men allegedly behind notorious FIN7 hacking group-->https://arstechnica.com/?p=1351885
+Design your resume in real time and download a print-ready PDF (free)-->http://resumemaker.online
+JPL's Open Source Build-It-Yourself Rover-->https://opensourcerover.jpl.nasa.gov/
+White, and in the minority-->https://www.washingtonpost.com/news/local/wp/2018/07/30/feature/majority-minority-white-workers-at-this-pennsylvania-chicken-plant-now-struggle-to-fit-in/?noredirect=on
+Making the Macintosh: Technology and Culture in Silicon Valley-->http://web.stanford.edu/dept/SUL/library/mac/
+Apple App Store anniversary marks ten years of proprietary appsploitation-->https://www.fsf.org/blogs/community/apple-app-store-anniversary-marks-ten-years-of-proprietary-appsploitation
+Open Letter to Lorena Gonzalez Fletcher, Assembly Appropriations Committee Chair-->https://www.eff.org/deeplinks/2018/07/open-letter-assemblymember-lorena-gonzalez-fletcher-chair-california-assembly
+Gpython is a python interpreter written in go “batteries not included”-->https://github.com/ncw/gpython
+AGPL – what you can do and what you can't-->https://softwareengineering.stackexchange.com/questions/107883/agpl-what-you-can-do-and-what-you-cant
+AdGuard Pro for iOS will be discontinued due to Apple's policy-->https://adguard.com/en/blog/adguard-pro-discontinued/
+GitLab is working on a tool just for data teams-->https://about.gitlab.com/2018/08/01/hey-data-teams-we-are-working-on-a-tool-just-for-you/
+Community Plumbing: A History of the Hardware Store-->https://placesjournal.org/article/community-plumbing-a-history-of-the-hardware-store/
+Creating a key generator to reset a Hikvision IP camera's admin password-->https://neonsea.uk/blog/2018/08/01/hikvision-keygen.html
+Too Many Jobs Feel Meaningless Because They Are-->https://www.bloomberg.com/view/articles/2018-08-01/too-many-jobs-feel-meaningless-becauToo Many JobsWhat the Luddites Really Fought Against-->https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/?no-ist
+Real-Time Fraud Detection-->https://miguelgfierro.com/blog/2018/real-time-fraud-detection/
+Is horror the most disrespected genre?-->http://www.bbc.com/culture/story/20180614-is-horror-the-most-disrespected-genre
+Actor Model of Computation [pdf]-->https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf
+de.js – v10.8.0-->https://nodejs.org/en/blog/release/v10.8.0/
+In Memoriam: Gervase Markham – Bradley M. Kuhn-->http://ebb.org/bkuhn/blog/2018/07/29/gerv.html
+Bringing Back the Mighty Chiplet-->https://www.nextplatform.com/2018/07/31/bringing-back-the-mighty-chiplet/
+Doctors cut out a large chunk of a boy’s brain–now he’s doing just fine-->https://arstechnica.com/science/2018/08/doctors-cut-out-a-large-chunk-of-a-boys-brain-now-hes-doing-just-fine/
+Pulling Storage Together at Extreme Scale-->https://www.nextplatform.com/2018/08/01/pulling-storage-together-at-extreme-scale/
+A Paper In­ter­net-->http://carlos.bueno.org/2010/09/paper-internet.html
+Art of the Steal: On the Trail of World’s Most Ingenious Thief-->https://www.wired.com/2010/03/ff_masterthief_blanchard/
+The art of stealing-->https://www.nrc.nl/kunsthal-en/
+Tesla, Inc. Q2 2018 Financial Results and Q&A Webcast-->http://ir.tesla.com/events/event-details/tesla-inc-q2-2018-financial-results-and-qa-webcast
+ew York's Insatiable Appetite for Truly Enormous Oysters-->https://www.atlasobscura.com/articles/giant-oysters
+Percy Liang Is Teaching Robots How to Understand Language-->https://medium.com/@media_55122/percy-liang-is-teaching-robots-how-to-understand-language-974f1192686
+Elvish 0.12 Release Notes-->https://elv.sh/blog/0.12-release-notes.html
+Reddit says user data between 2005 and 2007 breached-->https://www.reuters.com/article/us-reddit-cyber/reddit-says-user-data-between-2005-and-2007-breached-idUSKBN1KM5WG
+What Ponzis teach about society’s responsibility and technological progression-->http://researchly.leobosankic.com/2018/08/01/what-ponzis-teach-us-about-societys-responsibility-and-technological-progression/
+Zinc: Introduce minimal cryptography library-->https://git.kernel.org/pub/scm/linux/kernel/git/zx2c4/linux.git/commit/?h=zinc
+Creating a New Programming Language That Will Allow Anyone to Make Software-->https://hackernoon.com/creating-a-new-programming-language-that-will-allow-anyone-to-make-software-7a8c73238dc2
+Check your urge to build a microservice when you can buy-->https://buttercms.com/books/microservices-for-startups/should-you-build-or-buy-microservices
+Why Are Detroit Entrepreneurs Bringing White Men to Meetings with Investors?-->https://www.freep.com/story/money/business/john-gallagher/2018/08/01/black-female-entrepreneurs-detroit/880980002/
+If Silicon Valley won't stop fake news, we will-->https://www.theguardian.com/commentisfree/2018/aug/01/big-tech-control-politics-fake-news-data-facebook-ads-elections
+China launches high-tech bird drones to watch over its citizens-->https://www.cnet.com/news/china-launches-high-tech-bird-drones-to-watch-over-its-citizens/
+RED’s holographic Hydrogen One phone gets closer to release with FCC approval-->https://www.theverge.com/circuitbreaker/2018/8/1/17639752/red-holographic-hydrogen-one-phone-fcc-approval
+an Francisco officials follow Mountain View with bid to ban free lunc-->https://www.mercurynews.com/2018/08/01/san-francisco-officials-follow-mountain-view-with-bid-to-ban-free-lunch-for-techies/
+me Is a Mixed Bag, Like America-->http://time.com/5349517/jesmyn-ward-my-true-south/
+afe Harbor for Security Bug Bounty Participants-->https://blog.mozilla.org/security/2018/08/01/safe-harbor-for-security-bug-bounty-participants/
+Gift of the fungi: Mushrooms – yes, mushrooms – could help save the world-->https://www.salon.com/2016/12/25/gift-of-the-fungi-mushrooms-yes-mushrooms-could-help-save-the-world/
+Cyclists Killed by ISIS in Tajikistan-->https://www.outsideonline.com/2331976/american-cyclists-killed-isis-tajikistan
+VDRAW: Puppeteering App Translates Keyboard and Mouse Use, Voice to Avatar-->http://nwn.blogs.com/nwn/2018/08/vr-streamer-app-avatar.html
+Grasping at straws and the perils of performative, scolding environmentalism-->https://thebreakthrough.org/index.php/voices/grasping-at-straws
+Magnetic shape shifters-->https://www.youtube.com/watch?time_continue=137&v=MUt1YKtn6kM
+Jeff Bezos’s $150B Fortune Is a Policy Failure-->https://www.theatlantic.com/business/archive/2018/08/the-problem-with-bezos-billions/566552/?single_page=true
+Tommy Robinson bailed after Court of Appeal win-->https://www.bbc.co.uk/news/uk-england-leeds-45029755
+iemens acquires low-code platform Mendix for $700M-->https://techcrunch.com/2018/08/01/siemens-acquires-low-code-platform-mendix-for-700m/
+Reddit Hacked – Insecure Two-Factor Setup-->https://www.wired.com/story/reddit-hacked-thanks-to-woefully-insecure-two-factor-setup/
+Common Language Mistakes That Undermine Good Writing-->https://mcconnellsoftware.github.io/language-tips/
+Deep learning, architecture and hyper parameters search with genetic algorithms-->https://github.com/guybedo/minos
+Kotlin Cheat Sheet and Quick Reference [pdf]-->https://koenig-media.raywenderlich.com/uploads/2018/08/RW_Kotlin_Cheatsheet_1_0.pdf
+What Businesses Lose When They Waste 'Time'-->https://www.pubnub.com/blog/what-businesses-lose-when-they-waste-time/devrel_hn=joe_hanson
+As remittances flow to Mexico, a new architectural style blooms-->https://archpaper.com/2018/08/mexico-remittance-house-new-architectural-style/
+Overwolf Announces Twitch-Sponsored Developer Challenge-->https://blog.twitch.tv/overwolf-announces-twitch-sponsored-developer-challenge-602daf788a0e
+Twitch: Bits-In-Extensions Moves to Open Beta-->https://blog.twitch.tv/bits-in-extensions-moves-to-open-beta-a42fccd1b646
+to Maintain the Momentum of Success-->https://medium.com/@chris_9782/how-to-maintain-the-momentum-of-success-fe38300f834b
+The World's First 3D-Printing Restaurant-->https://www.youtube.com/watch?v=xk9hNin_sag&feature=youtu.be
+tudy Shows One Overheated Laptop Battery Could Down an Airliner-->https://www.bloomberg.com/news/articles/2018-08-01/study-shows-one-overheated-laptop-battery-could-down-an-airliner
+An unequal justice-->https://www.washingtonpost.com/graphics/2018/investigations/black-homicides-arrests/
+A brief history of web app loading-->https://dev.to/vcarl/a-brief-history-of-web-app-loading-5d6a
+An Oral History of Apple Spin-Off General Magic-->http://nymag.com/selectall/2018/08/general-magic-oral-history-of-the-influential-tech-company.html
+A Practical Guide to Design Visioning – Part 3-->https://medium.com/thumbtack-design/a-practical-guide-to-design-visioning-part-3-6375669ce7a1
+Peek Inside an Unexpected Moth Slumber Party-->https://www.atlasobscura.com/articles/where-do-moths-sleep
+GHC, One Compiler to Rule Them All-->https://blog.nyarlathotep.one/2018/07/ghc-one-compiler-to-rule-them-all/
+The Hidden Race to Dismantle Global Law Enforcement Privacy Protections-->https://www.eff.org/deeplinks/2018/08/behind-octopus-hidden-race-dismantle-global-law-enforcement-privacy-protections
+Lisa Brennan-Jobs Recalls Memories of Her Famous Father-->https://www.vanityfair.com/news/2018/08/lisa-brennan-jobs-small-fry-steve-jobs-daughter
+Graphic on car usage in European cities-->https://mobile.twitter.com/brent_bellamy/status/1023733175766450177
+Cupertino City Council Balks at New Tax After Apple Objects-->https://www.wsj.com/articles/cupertino-city-council-balks-at-new-tax-after-apple-objects-1533129695
+France bans smartphones in schools-->https://www.engadget.com/2018/08/01/france-bans-smartphones-schools/
+Cloud infrastructure at Grubhub-->https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a
+Einstellung Effect-->https://en.wikipedia.org/wiki/Einstellung_effect
+3D gun blueprint downloads suspended, but they're already out there-->https://www.cnn.com/2018/07/31/us/3d-guns-downloaded-plans-states/index.html
+Amazon face recognition falsely matches 28 lawmakers with mugshots-->https://www.theguardian.com/technology/2018/jul/26/amazon-facial-rekognition-congress-mugshots-aclu
+aive Bayes Classifier-->https://waynemystir.github.io/blog/2018/07/31/Naives-Bayes
+Extended Text Mode on the C64-->http://imrannazar.com/Extended-Text-Mode-on-the-C64
+“Single?” Lawn Signs Conquer the American Landscape (2008)-->https://blog.rjmetrics.com/2008/11/06/single-lawn-signs-conquer-the-american-landscape/
+Blockchain Bridges, Innovations, and Cryptoasset Investment Models-->https://blog.coinfabrik.com/decentralized-blockchain-bridges-blockchain-innovations-and-cryptoasset-investment-frameworks/
+Announcing Cirq: an open source framework for NISQ algorithms-->https://opensource.googleblog.com/2018/08/cirq-open-source-framework-nisq-algorithms.html
+Tesla Second Quarter 2018 Update-->http://ir.tesla.com/static-files/7235e525-db16-470c-8dce-9ecac0ad7712
+Who lost the most followers in Twitter’s sweeping bot purge? Twitter-->https://www.marketwatch.com/story/who-lost-the-most-followers-in-twitters-sweeping-bot-purge-twitter-2018-08-01
+Do a robot’s social skills discourage people from switching it off?-->http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201581
+Reinforcement Learning Summer School (RLSS 2017) Notes-->https://yobibyte.github.io/rlss17.html
+The Last of Escapist Magazine-->https://medium.com/@russpitts/the-last-of-escapist-magazine-5dd4f852703a
+Large Hadron Collider Accelerates First Atoms to Nearly Speed of Light-->https://differentimpulse.com/large-hadron-collider-accelerates-first-atoms-to-nearly-speed-of-light/
+OOP Considered Harmful?-->https://www.lvguowei.me/post/anti-oop/
+A Ray-Tracing Pioneer Explains How He Stumbled into Global Illumination-->https://blogs.nvidia.com/blog/2018/08/01/ray-tracing-global-illumination-turner-whitted/
+React DOM 16.4.2 released to address a security vulnerability in ReactDOMServer-->https://reactjs.org/blog/2018/08/01/react-v-16-4-2.html
+to achieve balance of site performance and personalization-->https://info.varnish-software.com/blog/caching-uncacheable-varnish-6.0-xbody
+to Burn Digital Money-->https://suitpossum.blogspot.com/2018/08/how-to-burn-digital-money.html
+In upstate New York, a DMT-inspired psychedelic temple rises-->https://archpaper.com/2018/06/psychedelic-art-temple-entheon/
+Unity – colored pencil drawing camera effect-->https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/colored-pencils-122848
+ugo – A static site generator-->https://blog.uicard.io/static-site-generator--hugo/
+Tesla whistleblower countersues over Elon Musk’s ‘defamatory’ statements-->https://www.theverge.com/2018/7/31/17636928/tesla-whistleblower-martin-tripp-countersuit-elon-musk-twitter
+ew Tools to Manage Your Time on Facebook and Instagram-->https://newsroom.fb.com/news/2018/08/manage-your-time/
+Robot Hands Are Evolving to Do What Ours Can-->https://www.nytimes.com/interactive/2018/07/30/technology/robot-hands.html
+Time is running out for dieselgate Volkswagen owners to get their money-->https://arstechnica.com/?p=1350479
+eadless CMS Comparison-->https://docs.google.com/spreadsheets/d/1L2KNUf-8um8_yevKRTmUUQKy4DcoKWZ-GZR0HavrtoQ
+Google Building Censored Search Engine for Chinese Market-->https://thenextweb.com/asia/2018/08/01/google-allegedly-working-on-censored-search-engine-for-chinese-market/
+an Francisco, You’ll Miss Your Tech Bros If They Flee-->https://www.bloomberg.com/view/articles/2018-08-01/harassing-the-tech-industry-could-backfire-on-san-francisco
+The Abortions We Don’t Talk About: Six Slate Women Tell Their Stories-->https://slate.com/human-interest/2018/07/the-abortions-we-dont-talk-about-six-slate-women-tell-their-stories.html
+Desert Daze-->https://desertdaze.org/
+An open source website that lets you print a map with every single road on a mug-->https://anvaka.github.io/map-print/
+Write quality mobile apps in any architecture-->https://www.thoughtworks.com/insights/blog/write-quality-mobile-apps-any-architecture
+to create a Windows service in Python-->https://www.thepythoncorner.com/2018/08/how-to-create-windows-service-in-hi.html?m=0
+Paul Graham on SICP (2000)-->https://www.amazon.com/review/R3G05B1TQ5XGZP/
+Uber and Lyft offered to bail out taxi drivers; New York said n-->https://www.theverge.com/2018/8/1/17639656/uber-lyft-bailout-nyc-taxi-drivers-cap
+Apple pretty close to topping a trillion dollar market valuation-->https://money.cnn.com/2018/08/01/investing/apple-closer-trillion-dollar-market-value/index.html
+5 reasons behind China’s emerging dominance in Artificial Intelligence-->https://medium.com/@anant90/chinas-emerging-dominance-in-artificial-intelligence-7ece623daf9b?source=friends_link&sk=7b6cf7861f9254839bd0ba2e902355a8
+nippets, Custom Content Sections and More – Forestry.i-->https://forestry.io/blog/snippets-custom-content-sections-and-more/
+App removed from Google Play for "sending device phone number to Crashlytics"-->https://www.reddit.com/r/androiddev/comments/93ons2/app_removed_from_google_play_for_sending_users/
+Computers, Networks and Education – Alan C. Kay – September 1991 [pdf]-->https://wiredpen.com/wp-content/uploads/2010/10/computersnetworksandeducation.pdf
+Coinbase and the Widespread Adoption of Cryptocurrency-->http://melewi.net/blog/2018/08/01/coinbase-and-the-widespread-adoption-of-cryptocurrency/
+All-optical machine learning using diffractive deep neural networks-->http://science.sciencemag.org/content/early/2018/07/25/science.aat8084
+Facebook Just Learned the True Cost of Fixing Its Problems-->https://www.wired.com/story/facebook-just-learned-the-true-cost-of-fixing-its-problems/
+Reddit keeps releases bug-free using Slack, Sentry, and a tuba-->https://sentry.io/themonitor/reddit/
+Ukrainian hackers arrested for stealing 15M credit cards – The Verge-->https://www.theverge.com/2018/8/1/17639914/carbanak-indictment-hacking-credit-card-records-ukraine-campaign-chipotle-chilis-arbys
+Are patent claims coming for your WS2812?-->https://hackaday.com/2018/07/31/are-patent-claims-coming-for-your-ws2812/
+The common thread in California's wildfires: heat like the state has never seen-->http://www.latimes.com/local/lanow/la-me-fires-heat-20180731-story.html
+A number theorist who bridges math and time-->https://www.quantamagazine.org/fields-medalist-akshay-venkatesh-bridges-math-and-time-20180801/
+Aaron Swartz: How to Get a Job Like Mine (2007)-->https://aaronsw.jottit.com/howtoget
+Internationalized domain names in Linux-->http://bogdan.nimblex.net/linux/2018/08/01/IDNs-in-linux.html
+Blockstack: A scalable alternative to Ethereum for Dapps-->http://blockstack.org
+Tokbox has been acquired by Vonage-->https://tokbox.com/blog/tokbox-now-a-part-of-the-vonage-family/
+acking the Iron Curtain: From smuggling computer parts to owning-->https://www.youtube.com/watch?v=5bJHUvQ_xGM
+The Minimum Wage in an Online Job Market [pdf]-->http://john-joseph-horton.com/papers/minimum_wage.pdf
+WhatsApp is all set to start charging business users-->https://www.trendiee.com/news/whatsapp-is-all-set-to-start-charging-business-users/
+What would happen if the earth turned into blueberries?-->https://www.chronicle.com/article/What-Would-Happen-If-the-Earth/244109?cid=wcontentlist_hp_latest
+to convert a non-math-lover (Dandelin spheres) [3Blue1Brown]-->https://www.youtube.com/watch?v=pQa_tWZmlGs
+potify hosts questionable content-->https://www.vox.com/2018/7/31/17634030/spotify-infowars-controversy-facebook-youtube
+Income inequality: US vs. Europe-->https://pixel.nymag.com/imgs/daily/intelligencer/2017/12/14/14-inequality-1.nocrop.w710.h2147483647.2x.png
+Fosscad-Repo: Defense Distributed CAD Repository-->https://github.com/maduce/fosscad-repo
+Confluence finally supports inline code blocks like GitHub and Slack-->https://jira.atlassian.com/browse/CONFCLOUD-57638
+Improving our conversion rate 500% (Part 3)-->https://medium.com/the-set-list/landing-pages-improving-our-conversion-rate-500-part-3-cd0a91266832
+Arithmetica – Decentralized Computational Math Platform-->https://arithmetica.network
+etflix Makes Money-->https://www.theringer.com/video/2018/8/1/17639388/ringer-phd-how-does-netflix-make-money
+For a Return to China, Google Is Said to Build a Censored Search Engine-->https://www.nytimes.com/2018/08/01/technology/china-google-censored-search-engine.html
+Randomness of Different Card Shuffling TechnThat Amazon Keeps Its Lead in the $180B Cloud-->https://www.forbes.com/sites/petercohan/2018/08/01/5-ways-that-amazon-keeps-its-lead-in-the-180b-cloud/#36bea9ec9e24
+urvey: USA vs. China Electronics Contract Manufacturing-->https://www.surveymonkey.com/r/WF2G5N6
+Randomness of Different Card Shuffling Techniques-->https://www.reddit.com/r/dataisbeautiful/comments/93oest/randomness_of_different_card_shuffling_techniques/
+Ars on your lunch break: Tim O‘Reilly discusses the birth of “open source”-->https://arstechnica.com/information-technology/2018/08/ars-on-your-lunch-break-tim-oreilly-discusses-the-birth-of-open-source/
+Amazon plans to move completely off Oracle software by early 2020-->https://www.cnbc.com/2018/08/01/amazon-plans-to-move-off-oracle-software-by-early-2020.html
+Arithmetica – Decentralized Computational Math Platform-->https://arithmetica.network
+etflix Makes Money-->https://www.theringer.com/video/2018/8/1/17639388/ringer-phd-how-does-netflix-make-money
+Letter to Mark Zuckerberg-->https://www.indiehackers.com/forum/letter-to-mark-zuckerberg-8e6283bde8
+Why You Should Be Using Firefox Test Pilot-->https://www.techrepublic.com/article/why-you-should-be-using-firefox-test-pilot/
+ecure, remote login from any device with Cloudflare Access-->https://www.cloudflare.com/products/cloudflare-access/
+Attacking the attackers-->https://asaf.me/2018/07/23/attacking-the-attackers/
+Edge Computing at Chic-Fil-A with Kubernetes-->https://medium.com/@cfatechblog/edge-computing-at-chick-fil-a-7d67242675e2
+elf-Employment and Government-->https://siderea.dreamwidth.org/1430601.html
+Why competitive gaming is starting to look a lot like professional sports-->https://www.theverge.com/2018/7/27/17616532/overwatch-league-of-legends-nba-nfl-esports
+Climate change brings the UK’s hidden past to the surface-->https://arstechnica.com/science/2018/08/climate-change-brings-the-uks-hidden-past-to-the-surface/
+Can Technology Innovation Advance the Hippocratic Oath in the Digital Age?-->https://www.forbes.com/sites/kateharrison/2018/08/01/can-technology-innovation-advance-the-hippocratic-oath-in-the-digital-age-these-startups-think-so/
+One Data Science Job Doesn’t Fit All-->https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/
+ervice Discovery for Modern Distributed Applications-->https://shekhargulati.com/2018/08/01/week-1-service-discovery-for-modern-distributed-applications/
+Kotlin 1.2.60 is out-->https://blog.jetbrains.com/kotlin/2018/08/kotlin-1-2-60-is-out/
+OpenWrt 18.06.0 – First Stable Release-->https://openwrt.org/releases/18.06/notes-18.06.0
+Keyboards are not a detail (2013)-->http://esr.ibiblio.org/?p=4975%E2%80%8E
+Russian embassy trolls US launch industry after new rocket engine sale-->https://arstechnica.com/science/2018/08/russian-embassy-trolls-us-launch-industry-after-new-rocket-engine-sale/
+The Swedish Job: Daring Thieves Steal Royal Jewels, Escape on Motorboat-->https://www.npr.org/2018/08/01/634544467/the-swedish-job-daring-thieves-steal-royal-jewels-escape-on-motorboat
+upreme Court Says Kids Can Sue Trump Over Climate Change-->https://www.motherjones.com/environment/2018/07/supreme-court-says-kids-can-sue-trump-over-climate-change/
+Live Streams of the Decentralized Web Summit 2018-->https://www.youtube.com/channel/UCFa_X02QhJnP0FNpFAKyRRg/feed
+Google Buys Property to Build Data Center Near Dallas-->https://www.datacenterknowledge.com/google-alphabet/google-buys-property-build-data-center-near-dallas
+Castr – Livestream to Facebook, YouTube, Twitch and More Simultaneously-->https://castr.io
+iemens acquires Low-Code PaaS Mendix for $730M-->https://www.mendix.com/blog/siemens-to-acquire-mendix/
+We Checked the Android Source Code by PVS-Studio, or Nothing Is Perfect-->https://www.viva64.com/en/b/0579/
+Firefox Flexbox Inspector-->https://discourse.mozilla.org/t/flexbox-inspector-input-wanted/30611
+2018 survival playbook from the infamous VIX trader who turned $500K into $12mil-->https://www.marketwatch.com/story/former-target-manager-sticks-to-volatility-strategy-that-made-him-millions-as-three-headed-horseman-looms-over-market-2018-07-31
+Two Alaskan Municipalities – Malware Infection-->https://nakedsecurity.sophos.com/2018/08/01/staff-dust-off-their-typewriters-after-malware-attack/
+Apple Sold Fewest Macs Since 2010 as Nearly Entire Lineup Outdated-->https://www.macrumors.com/2018/08/01/fewest-quarterly-mac-sales-since-2010/
+Debugging Strategies You Can Use on Every Project-->https://spin.atomicobject.com/2018/08/01/debugging-strategies-tips/#.W2H0G9UNwmc.hackernews
+FAA Asserts Drone Authority-->https://www.avweb.com/avwebflash/news/FAA-Asserts-Drone-Authority-231266-1.html
+Three hackers arrested in connection with millions of dollars in losses-->https://uk.reuters.com/article/uk-usa-cyber-arrests-ukraine/three-hackers-arrested-in-europe-in-connection-with-tens-of-millions-of-dollars-in-losses-idUKKBN1KM5I3
+an Francisco Officials to Tech Workers: Buy Your Lunc-->https://www.nytimes.com/2018/07/31/technology/san-francisco-tech-free-lunch.html
+A time in 1994 when Steve Jobs got to use a device like an iPhone-->https://www.cake.co/conversations/6bNY8PD/that-time-in-1994-when-steve-jobs-got-to-use-a-device-like-an-iphone
+Building Slim Docker Images for Rails-->https://www.tinfoilsecurity.com/blog/slim-docker-image-rails
+the ‘brainy’ book became a publishing phenomenon-->https://www.theguardian.com/books/2018/jul/29/why-brainy-book-became-publishing-phenonmenon
+Why We’re Sharing 3M Russian Troll Tweets-->https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets/amp/
+The End of Employees-->https://www.wsj.com/articles/the-end-of-employees-1486050443
+ecure Authentication of IoT Devices to Amazon Web Services in Python-->https://www.zerynth.com/blog/microchips-zero-touch-secure-provisioning-for-aws-iot-using-python/
+Printcrime-->https://craphound.com/stories/2006/01/12/printcrime/
+Deep learning beginner to expert: techniques from Fast.ai-->https://blog.floydhub.com/ten-techniques-from-fast-ai/
+Why Mistranslation Matters-->https://www.nytimes.com/2018/07/28/opinion/sunday/why-mistranslation-matters.html
+Microsoft Begins Testing of the Your Phone App in Windows 10-->https://www.bleepingcomputer.com/news/microsoft/microsoft-begins-testing-of-the-your-phone-app-in-windows-10/
+French school distributes 24/7 traceable tag-->https://www.laquadrature.net/fr/new_school
+Ichiban is kanban for one-->https://ichiban.works
+im Swap Fraud – A Victim’s Perspective-->https://theantisocialengineer.com/2018/07/23/sim-swap-fraud-a-victims-perspective/
+expnr – a vendor neutral, timing driven, FOSS FPGA place and route tool-->https://github.com/YosysHQ/nextpnr
+Channels is a project that takes Django and extends its abilities beyond HTTP-->https://channels.readthedocs.io/en/latest/
+The simplicity of dropping Google in 2018-->https://macwright.org/2018/04/26/leaving-google.html
+Mood board: the designer's paid break-->https://www.imaginarycloud.com/blog/moodboard-designers-paid-break/
+Tencent ML Team Trains ImageNet in Record Four Minutes-->https://medium.com/syncedreview/tencent-ml-team-trains-imagenet-in-record-four-minutes-d3d85eff2062
+661Tbps through a single optical fiber: The mind boggles-->https://arstechnica.com/science/2018/08/661tbits-through-a-single-optical-fiber-the-mind-boggles/
+Decentralized Web Summit 2018 (with live streams)-->https://decentralizedweb.net/
+From developer to entrepreneur: Learning to build an indie startup-->https://twomakers.io/two-makers-one-journey/
+Automated Reverse Engineering: Mistfall Engine-->http://z0mbie.daemonlab.org/autorev.txt
+Wildfire Revealed Hundreds of Blackfoot Sites in Canada-->https://www.cbc.ca/news/canada/calgary/kenow-fire-blackfoot-archeology-sites-1.4765349
+Facebook Employees Explain Struggle to Care About Ethics When Gig So Cushy-->https://www.youtube.com/watch?v=-DiBc1vkTig
+Mixing Equity and Debt: Airbnb, Uber, and Sweetgreen’s Explosive Growt-->https://www.fundera.com/blog/mixing-equity-and-debt
+What Happens When a Shitty Coder Builds Your Back End-->https://hackernoon.com/what-happens-when-a-shitty-coder-builds-your-backend-4cb0a57ff6ef
+Do you need a value proposition before starting a project?-->https://www.indiehackers.com/forum/do-you-need-a-value-proposition-before-starting-a-project-8ac406e40d
+ewgrad: Post a job for new grads-->https://newgrad.io/new-post
+Cheapo heuristics: how small business gets by-->http://www.davidralbrecht.com/notes/2018/08/bigville-smallville-cheapo-heuristics.html
+Facebook’s New Message to WhatsApp: Make Money-->https://www.wsj.com/articles/facebooks-new-message-to-whatsapp-make-money-1533139325
+Git-aware code styling-->https://hackernoon.com/git-aware-code-styling-25675234273d
+trategies for reducing speckle noise in digital holography-->https://www.nature.com/articles/s41377-018-0050-9
+to Scale Microservices with Message Queues, Spring Boot, and Kubernetes-->https://medium.freecodecamp.org/how-to-scale-microservices-with-message-queues-spring-boot-and-kubernetes-f691b7ba3acf
+Machine learning at the energy and intensity frontiers of particle physics-->https://www.nature.com/articles/s41586-018-0361-2
+eva.com faces rebrand backlash, remains ConvertKit-->https://convertkit.com/staying-convertkit/
+Bezos Parents May Be Worth Billions-->https://www.bloomberg.com/news/articles/2018-07-31/a-hidden-amazon-fortune-bezos-parents-could-be-worth-billions
+Total.js v3 released-->https://blog.totaljs.com/blogs/news/20180801-total-js-v3-0-0/
+Trainification-->http://jacquesmattheij.com/trainification
+intendo Switch Does Multiple Accounts Right-->https://m.signalvnoise.com/nintendo-switch-does-multiple-accounts-right-516c9e42b9dc
+Random Paths via Chiseling-->https://www.boristhebrave.com/2018/04/28/random-paths-via-chiseling/
+Tree-Sitter, a parser generator tool and an incremental parsing library-->http://tree-sitter.github.io/tree-sitter/
+EduBlocks: Transition to Python the easy way-->http://edublocks.org
+We (reddit) had a security incident.  what you need to kn-->https://old.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/
+China's Peer-To-Peer Lenders Are Falling Like Dominoes as Panic Spreads-->https://www.bloomberg.com/news/articles/2018-07-20/china-s-p2p-platform-failures-surge-as-panic-spreads-in-market
+Behind the Scenes of NRK’s Latest Slow TV Experiment-->https://nrkbeta.no/2018/08/01/behind-the-scenes-of-nrks-latest-slow-tv-experiment/
+Japan Display plans foray into consumer markets with smart helmets-->https://www.japantimes.co.jp/news/2018/08/01/business/tech/japan-display-plans-foray-consumer-markets-smart-motorcycle-helmets-mirrors/
+Weapons of Math Destruction,E Matrix,Nate Silver:Data Science Leaders Summit-->https://www.kdnuggets.com/2018/07/domino-data-science-leaders-summit-highlights.html
+Elon Musk faces two lawsuits from “whistleblowers”-->https://news.alphastreet.com/elon-musk-faces-two-lawsuits-from-whistleblowers/
+Reddit Security Incident-->https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/
+ekla for Hacker News with React Native and TypeScript-->https://medium.com/@birkir.gudjonsson/building-hekla-for-hacker-news-with-react-native-and-typescript-eba8d570ae2e
+Grab Flags Down $2B Investment-->https://www.wsj.com/articles/uber-partner-grab-flags-down-2-billion-investment-1533115214
+GitHub Commit Forgery-->https://spoof.krypt.co/?hn
+Easy JavaScript Testing in Rails with Jest-->http://jamielittle.org/2018/07/27/jest.html
+Launching Linux threads and processes with clone-->https://eli.thegreenplace.net/2018/launching-linux-threads-and-processes-with-clone/
+repl 0.4.4-->https://github.com/nrepl/nREPL/releases/tag/0.4.4
+Exploring curated must-watch coding videos suggested by developers-->https://www.codingvideoz.com/
+Aura, Telefónica’s AI, learns the language of people-->https://news.microsoft.com/transform/aura-telefonicas-ai-learns-the-language-of-people-to-transform-customer-engagement/?ocid=internalshare
+Quick look at Google's Kanik-->https://blog.alexellis.io/quick-look-at-google-kaniko/
+ERE announces industry-leading freemium plan for developers-->https://globenewswire.com/news-release/2018/08/01/1545570/0/en/HERE-announces-industry-leading-freemium-plan-for-developers-to-build-location-aware-applications.html
+Onboard Your Ethereum ÐApp Users with an Autonomous Agent-->https://medium.com/medcredits/onboard-your-%C3%B0app-users-using-an-autonomous-agent-fe18b3267c04
+cket Programming in Python (Guide)-->https://realpython.com/python-sockets/
+Google Plans to Launch a Censored Search Engine in China-->https://www.bloomberg.com/news/articles/2018-08-01/google-plans-a-censored-search-app-for-china-intercept-says
+The Functional Role of C-->https://medium.com/@panuviljamaa/the-functional-role-of-css-417ac002e34f
+A Few More Bad Apples: As the Climate Changes, Fruit Growing Does, T-->https://www.npr.org/sections/thesalt/2018/08/01/634135514/a-few-more-bad-apples-as-the-climate-changes-fruit-growing-does-too
+MessageBird – WhatsApp Business API-->https://www.messagebird.com/en/whatsapp
+BountyGraph: Crowdfunded Bug Bounties and Security Audits-->https://justi.cz/bountygraph/2018/08/01/introducing-bountygraph.html
+Basic Income caused crime to drop by 40% and strengthened workforce?-->https://www.theincomer.com/2018/02/28/basic-income-crime-rate-drop-by-40-lower-inequality-even-stronger-workforce/
+the GitHub Student Developer Pack helped this student get a tech job-->https://blog.github.com/2018-08-01-How-the-GitHub-Student-Developer-Pack-helped-this-Student-get-a-Tech-Job/
+Undercover – actionable warnings for missing code coverage in Ruby-->https://github.com/grodowski/undercover
+Cool, There's Water on Mars. But Does It Make Good Pickles?-->https://www.atlasobscura.com/articles/mars-pickles
+edera Hashgraph raises $100M for fast and secure blockchain alternative-->https://venturebeat.com/2018/08/01/hedera-hashgraph-raises-100-million-for-fast-and-secure-blockchain-alternative/
+Bitcoin Independence Day-->https://bitcoin.clarkmoody.com/posts/bitcoin-independence-day
+Kids Video Game Playing Is Not About Games. It’s About Unmet Psychological Needs-->https://www.nirandfar.com/2018/07/kids-video-game-obsession.html
+Maritime restrictions on marine sulfur emissions set to finally begin in 2020-->https://www.msn.com/en-us/money/markets/dollar10-gas-the-obscure-maritime-rule-that-could-make-it-a-reality/ar-BBLkeCG?ocid=spartandhp
+AMD Announces Q2 2018 Results: Best Quarter in Seven Years-->https://www.anandtech.com/show/13121/amd-announces-q2-2018-results
+The Twilio API for WhatsApp-->https://www.twilio.com/blog/2018/08/twilio-whatsapp-api.html
+I decided to launch a project after I lost momentum. To be fired-up again-->https://www.indiehackers.com/@Alula/how-i-decided-to-launch-my-side-project-after-i-lost-momentum-to-be-fired-up-again-12f8b23d86
+Whatsapp Business API-->https://www.whatsapp.com/business/api
+An open letter to the guy who wrote that 'Always Hacking' tweet-->https://sonniesedge.co.uk/posts/an-open-letter-to-that-always-hacking-guy
+Learning Math for Machine Learning-->https://blog.ycombinator.com/learning-math-for-machine-learning/
+My ps2pdf.com PDF converter startup-->https://www.ps2pdf.com
+imbus, An Ethereum 2.0 Sharding Client-->https://our.status.im/introducing-nimbus-an/
+I opensourced my distributed cron SaaS when no one signed up-->https://github.com/dosyago-corp/cronstorm-opensource
+to develop an Alexa skill using Node.js?-->http://pages.datree.io/how-to-build-an-alexa-skill-in-less-than-30-minutes-using-nodejs
+to Stop Saying “Um,” “Ah,” and “You Know”-->https://hbr.org/2018/08/how-to-stop-saying-um-ah-and-you-know
+ired – Serverless and searchable “who's hiring”-->https://hnhired.com
+Repairing network hardware at scale with SRE principles-->https://cloudplatform.googleblog.com/2018/08/repairing-network-hardware-at-scale-with-sre-principles.html
+erverlessConf 2018 San Francisco: key takeaways for the future of serverless-->https://serverless.com/blog/serverlessconf-recap-san-francisco-2018-key-takeaways-future-serverless/
+A case for the U.S. nationalization of Microsoft-->http://greyenlightenment.com/crazy-idea-should-the-us-govt-buyout-microsoft/
+I've updated my 'Same App in React and Vue' article. Code review please?-->https://medium.com/javascript-in-plain-english
+Ticketing App Axs Scrapes Everything It Can Get from Your Phone-->https://theoutline.com/post/5628/how-a-concert-ticket-steals-your-personal-data
+to Make Friends, According to Science-->https://www.theatlantic.com/magazine/archive/2018/09/how-to-make-friends/565742/?single_page=true
+Freemasons to admit women – but only if they first joined as men-->https://www.theguardian.com/uk-news/2018/aug/01/freemasons-to-admit-women-but-only-if-they-first-joined-as-men
+Query expansions in Stack Overflow Talent-->https://clipperhouse.com/query-expansions-stack-overflow-talent/
+Revolve-->https://www.voxelquest.com/news/revolve
+WhatsApp finally earns money by charging businesses for slow replies-->https://techcrunch.com/2018/08/01/whatsapp-business-api/
+Crypto Sectors Analysis: Gaming and Gambling Rising, Privacy Coins Underperform-->https://hackernoon.com/cryptoasset-classification-and-in-depth-analysis-of-crypto-sectors-historical-growth-675b0af8660b
+enex-dump – Extract notes, attachments and metadata from Evernote-->https://github.com/fabiospampinato/enex-dump
+Bots Are Playing a Bigger Role in the Election Than People Realize (2016)-->https://dev.to/ben/bots-are-playing-a-bigger-role-in-the-election-than-people-realize
+Local Resistance Builds to Google’s ‘Smart City’ in Toront-->https://www.wsj.com/articles/local-resistance-builds-to-googles-smart-city-in-toronto-1533135550
+E.W. Dijkstra: Why numbering should start at zer-->https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html
+The Education of Dasmine Cathey (2012)-->https://www.chronicle.com/interactives/dasmine-cathey
+DjangoCon US 2018 Schedule Is Live-->https://www.djangoproject.com/weblog/2018/aug/01/djangocon-us-2018-schedule-live/
+Why Are Some Caves Full of Shoes?-->https://www.sapiens.org/column/curiosities/ancient-shoes/
+Yes, anyone can print a gun at home. But not a very good one-->https://www.bloomberg.com/view/articles/2018-08-01/3d-printable-guns-are-possible-but-not-good-guns
+Recapping the Serverless Conference-->https://medium.com/memory-leak/recapping-the-serverless-conference-342f16511582
+to correct selection bias-->https://medium.com/@akelleh/how-do-you-correct-selection-bias-d781a9b12de2
+Immersive Interview with Sami Hamid, VR/AR Producer, Co-Founder of Glitch Studi-->https://medium.com/@V_Kurbatov/immersive-interview-with-sami-hamid-3cff2e698b53
+Container Networking Basics-->https://www.flockport.com/guides/container-networking-basics
+What’s So Special About VS Code?-->https://medium.com/front-end-hacking/whats-so-special-about-vs-code-be80389a971a
+VMX – Full featured and cross platform Node.js version manager-->https://github.com/pd4d10/nvmx
+Covailnt – Where Freelancers Find Freelancers-->https://covailnt.com/
+Yale University discloses old school data breac-->https://www.zdnet.com/article/yale-discloses-old-school-data-breach/
+Man accused of sabotage at Tesla brings his own lawsuit over defamation-->https://arstechnica.com/tech-policy/2018/07/man-accused-of-sabotage-at-tesla-brings-his-own-lawsuit-over-defamation/
+Why Are Spaces in Science Fiction Not Wheelchair-Accessible?-->https://io9.gizmodo.com/staircases-in-space-why-are-places-in-science-fiction-1827966642
+Mars Terraforming Not Feasible with Current Technology-->https://www.nasa.gov/press-release/goddard/2018/mars-terraforming
+pring boots configuration metadata with Kotlin-->https://info.michael-simons.eu/2018/07/15/spring-boots-configuration-metadata-with-kotlin/
+Briton ran pro-Kremlin disinformation campaign-->https://www.computerweekly.com/news/252445769/Briton-ran-pro-Kremlin-disinformation-campaign-that-helped-Trump-deny-Russian-links
+Rails on Docker: Using Rails Encrypted Credentials with Docker-->https://www.chrisblunt.com/rails-on-docker-rails-encrypted-secrets-with-docker/
+3D-printed gun website yanks CAD files after federal judicial order-->https://arstechnica.com/tech-policy/2018/08/3d-printed-gun-website-yanks-cad-files-after-federal-judicial-order/
+Apple was overtaken by Huawei in global smartphone sales-->https://qz.com/1345496/apple-was-just-overtaken-by-huawei-in-global-smartphone-sales/
+tartups Front Cash to Homebuyers in Bidding Wars-->https://www.bloomberg.com/news/articles/2018-06-28/startups-front-cash-to-homebuyers-in-bidding-wars
+What's the difference between apps we cherish vs. regret?-->http://humanetech.com/app-ratings
+Thoughts on the Autonomous Vehicle Industry-->http://troynikov.io/thoughts-on-autonomy/
+Disclose Facebook Internal Server Information with a Strange Poll-->https://jmw.fyi/post/disclose-fb-intern-server-info-with-a-strange-poll
+Awesome codegen – Curated list of metaprogramming tools and articles-->https://github.com/z0mbie42/awesome-codegen
+Greenhouse gases surge to new highs worldwide in 2017: US report-->https://phys.org/news/2018-08-greenhouse-gases-surge-highs-worldwide.html
+ebula Level12: A Newbie's Approac-->https://moveax.me/nebula-level12
+Formlabs goes unicorn with latest funding round-->https://techcrunch.com/2018/08/01/formlabs-goes-unicorn-with-latest-funding-round/
+Facebook uncovers new fake accounts ahead of midterm elections-->https://www.wired.com/story/facebook-uncovers-new-fake-accounts-ahead-of-midterm-elections/
+more tin ear. Google plays the game-->https://redmonk.com/jgovernor/2018/07/30/no-more-tin-ear-google-plays-the-game/
+Fusion.js: A Plugin-Based Universal Web Framework-->https://eng.uber.com/fusionjs
+Passwords Stored on Trello Are Easily Revealed Using a Simple Google Searc-->https://infiniteprivacy.com/2018/08/uh-oh-passwords-stored-on-trello-are-easily-revealed-using-a-simple-google-search/
+maFM: Commercial-Free, Listener-Supported Radi-->https://somafm.com/groovesalad/
+toicism as a Service-->https://www.patreon.com/massimopigliucci
+Public events API delayed by five minutes-->https://blog.github.com/changelog/2018-08-01-new-delay-public-events-api/
+Queue everything and delight everyone (2008)-->https://decafbad.com/blog/2008/07/04/queue-everything-and-delight-everyone/
+Eclipse Mita – A New Programming Language for the Embedded IoT-->http://www.eclipse.org/mita/
+Technology Grows-->https://danwang.co/how-technology-grows/
+The Peculiar Math That Could Underlie the Laws of Nature-->https://www.wired.com/story/the-peculiar-math-that-could-underlie-the-laws-of-nature/
+The Sherpa of New York-->https://deadspin.com/the-sherpa-of-new-york-1827719365
+Get emailed whenever a new NPM package version is published-->https://npmnotifier.party
+Leaked Chats Show Alleged Russian Spy Seeking Hacking Tools-->https://www.securityweek.com/leaked-chats-show-alleged-russian-spy-seeking-hacking-tools
+The spectrum of financial dependence and independence-->http://www.collaborativefund.com/blog/the-spectrum-of-financial-dependence-and-independence/
+idden Rides could be your ticket to that forum-fed vehicle find-->http://hooniverse.com/2018/07/31/hidden-rides-could-be-your-ticket-to-that-forum-fed-vehicle-find/
+Why python is sl-->https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b
+Winds – Making your first contribution to open source-->https://getstream.io/blog/winds-an-in-depth-tutorial-on-making-your-first-contribution-to-open-source-software/
+Apple just explained why it’s going to make original TV shows-->https://www.cnbc.com/2018/08/01/why-apple-makes-original-shows.html
+What is a Data Pipeline?-->http://www.jesse-anderson.com/2018/08/what-is-a-data-pipeline/
+team Alert: Abstractism Game Exploited Gamers’ CPU for Cryptomining-->https://sensorstechforum.com/steam-abstractism-game-cpu-cryptomining/
+Using big data to fight climate change-->https://www.venturi-group.com/podcast/using-big-data-fight-climate-change-noelia-martinez/
+Update on Java value types (Valhalla, LWorld)-->https://www.youtube.com/watch?v=_26KZAegYRM&amp;t=54
+‘Somebody hit the wrong button’: Thousands in Shasta Lake evacuated accidentally-->https://www.sacbee.com/news/state/california/fires/article215844495.html
+Why startups need to approach SEO differently than established companies-->https://www.atrium.co/blog/seo-seed-stage-startups/
+Where do people get money to buy CA homes these days? Often, from mom and dad-->https://www.scpr.org/news/2018/07/31/85109/where-do-people-get-money-to-buy-california-homes/
+Report: India showing signs it may legalize cryptocurrency payments-->https://cryptolo.io/cryptoblog/index.php/report-india-showing-signs-it-may-legalize-cryptocurrency-payments/
+GoUmbral – ECC arithmetic layer, and soon-to-be proxy re-encryption lib-->https://github.com/nucypher/goUmbral
+White, and in the minority-->https://www.washingtonpost.com/news/local/wp/2018/07/30/feature/majority-minority-white-workers-at-this-pennsylvania-chicken-plant-now-struggle-to-fit-in/
+The Problem with The New York Times's Big Climate Story-->https://www.theatlantic.com/science/archive/2018/08/nyt-mag-nathaniel-rich-climate-change/566525/?single_page=true
+Amnesty International Among Targets of NSO-Powered Campaign-->https://www.amnesty.org/en/latest/research/2018/08/amnesty-international-among-targets-of-nso-powered-campaign/
+ews startup Blendle employee handbook-->http://handbook.blendle.com
+My Experiences with Subversion (2004)-->https://www.chiark.greenend.org.uk/~sgtatham/svn.html
+Django 2.1 released-->https://docs.djangoproject.com/en/2.1/releases/2.1/
+A Poet of Computation Who Uncovers Distant Truths-->https://www.quantamagazine.org/computer-scientist-constantinos-daskalakis-wins-nevanlinna-prize-20180801/
+Red Hat OpenShift Container Platform 3.10 is now available-->https://blog.openshift.com/red-hat-openshift-container-platform-3-10-is-now-available-for-download/
+Build a Minimalist website using Markdown-->https://mm.dwyer.co.za/
+Work begins on rocket engines for SLS flights a decade from n-->https://arstechnica.com/science/2018/08/work-begins-on-rocket-engines-for-sls-flights-a-decade-from-now/
+A curated list of resources for bootstrapping sideprojects-->https://github.com/mezod/awesome-indie
+China's ‘social credit score’ will punish and reward citizens-->https://bigthink.com/stephen-johnson/a-look-at-chinas-orwellian-plan-to-give-every-citizen-a-social-credit-score
+LLVM / Clang 7.0 Branching Today, Releasing in September-->https://www.phoronix.com/scan.php?page=news_item&px=LLVM-7.0-Branched
+The Neuroscience of Smell Memories Linked to Place and Time-->https://www.psychologytoday.com/us/blog/the-athletes-way/201807/the-neuroscience-smell-memories-linked-place-and-time
+Public Health Consequences of a 2013 Measles Outbreak in New York City-->https://jamanetwork.com/journals/jamapediatrics/fullarticle/2688781
+atural Language Database Interface-->https://www.nlsql.com/blog/post/1/
+Accelerate Skill Development Using the ASK Toolkit for Visual Studio Code (Beta)-->https://developer.amazon.com/blogs/alexa/post/a40b4067-fb96-4b53-9e52-17fd1f42b66f/ask-toolkit-for-visual-studio-code
+Women in Tech Webinar: How to Build an “And” Culture and Thrive-->http://info.linuxacademy.com/women-in-tech-webinar-equili
+Removing Babel's Stage Presets – Babel-->https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
+Lyft Will Pay Chicagoans $550 to Ditch Their Cars for a Mont-->http://www.thedrive.com/news/22549/lyft-will-pay-chicagoans-550-to-ditch-their-cars-for-a-month
+Introduction to compute shaders-->https://anteru.net/blog/2018/intro-to-compute-shaders/index.html
+Automated Text Classification Using Machine Learning-->https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning/
+JPL / NASA Release Open Source Build It Yourself Rover Plans-->https://github.com/nasa-jpl/open-source-rover
+ext Year 20% of Bank Profits Could Come Directly from the Fed-->http://thesoundingline.com/jim-bianco-next-year-20-of-bank-profits-could-come-directly-from-the-fed/

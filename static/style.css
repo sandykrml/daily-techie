@@ -1,0 +1,8 @@
+body  { font-family:Verdana; font-size:10pt; color:#828282; }
+td    { font-family:Verdana; font-size:10pt; color:#828282; padding: 8px; }
+
+a:link    { color:#000000; text-decoration:none; } 
+a:visited { color:#828282; text-decoration:none; }
+
+tr:hover {background-color: #FEF5E7;}
+

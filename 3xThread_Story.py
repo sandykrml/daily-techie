@@ -75,7 +75,7 @@ def hello():
     print(datetime.datetime.now())
     return "Sucesss"
 
-@app.route('/<name>')
+@app.route('/')
 def index(name=None):
     with open("url.txt","r") as filob:
         data = filob.readlines()
